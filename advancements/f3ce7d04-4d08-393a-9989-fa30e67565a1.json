@@ -1,0 +1,39 @@
+{
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2022-02-02 16:13:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_cod": "2022-02-02 16:25:55 -0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-02-02 16:25:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-02-02 16:13:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2022-02-02 16:29:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2022-02-02 16:13:29 -0500",
+      "forest_hills": "2022-02-02 16:19:52 -0500"
+    },
+    "done": false
+  }
+}

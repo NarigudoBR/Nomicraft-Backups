@@ -1,0 +1,22 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "84435f3b-d498-34cd-8452-7b7a3648aa8e",
+          "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "aecab9dd-6fcb-31b6-9b0f-058ded7cc14b",
+          "status:8": "OWNER"
+        }
+      },
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "parties"
+        }
+      },
+      "partyID:3": 0
+    }
+  }
+}
