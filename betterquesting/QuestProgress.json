@@ -9976,8 +9976,8 @@
     "648:10": {
       "completed:9": {
         "0:10": {
-          "claimed:1": 0,
-          "timestamp:4": 1644017453556,
+          "claimed:1": 1,
+          "timestamp:4": 1644275321311,
           "uuid:8": "aecab9dd-6fcb-31b6-9b0f-058ded7cc14b"
         }
       },
