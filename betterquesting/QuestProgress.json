@@ -10318,7 +10318,20 @@
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {},
-          "userProgress:9": {},
+          "userProgress:9": {
+            "0:10": {
+              "uuid:8": "84435f3b-d498-34cd-8452-7b7a3648aa8e",
+              "data:9": {
+                "0:3": 0
+              }
+            },
+            "1:10": {
+              "uuid:8": "aecab9dd-6fcb-31b6-9b0f-058ded7cc14b",
+              "data:9": {
+                "0:3": 0
+              }
+            }
+          },
           "taskID:8": "bq_standard:retrieval",
           "index:3": 0
         }
@@ -10393,7 +10406,20 @@
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {},
-          "userProgress:9": {},
+          "userProgress:9": {
+            "0:10": {
+              "uuid:8": "84435f3b-d498-34cd-8452-7b7a3648aa8e",
+              "data:9": {
+                "0:3": 0
+              }
+            },
+            "1:10": {
+              "uuid:8": "aecab9dd-6fcb-31b6-9b0f-058ded7cc14b",
+              "data:9": {
+                "0:3": 0
+              }
+            }
+          },
           "taskID:8": "bq_standard:retrieval",
           "index:3": 0
         }
